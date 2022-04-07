@@ -45,7 +45,7 @@ public class HospitalInfoPop extends AppCompatActivity {
         setContentView(R.layout.activity_hospital_info_pop);
 
 
-       /* btnhosupdate = findViewById(R.id.btnhosupdate);
+       btnhosupdate = findViewById(R.id.btnhosupdate);
         HospitalName = findViewById(R.id.HospitalName);
         mbedit = findViewById(R.id.mbedit);
         oxedit = findViewById(R.id.oxedit);
@@ -94,7 +94,7 @@ public class HospitalInfoPop extends AppCompatActivity {
                   }
               });
           }
-      }); */
+      });
 
     }
 }
